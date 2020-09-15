@@ -1,0 +1,13 @@
+{
+	"name": "Thomas Alves",
+	"avatar": "https://avatars1.githubusercontent.com/u/32557796?s=460&u=94147ef1792f9153d3a24f119f88de29452a1aab&v=4",
+	"whatsapp": "+5584999191225",
+	"bio": "Olá meu nome é Thomas Alves, sou desenvolvedor front-end",
+	"subject": "Fisíca",
+	"cost": 80,
+	"schedule": [
+		{"week_day": 1, "from": "8:00", "to": "12:00"},
+		{"week_day": 3, "from": "10:00", "to": "18:00"},
+		{"week_day": 4, "from": "8:00", "to": "12:00"}
+	]
+}
